@@ -372,7 +372,7 @@ rules:[
 "Longest valid throw wins."
 ]
 },
-id:32,
+id:34,
 category:"sports",
 title:"Long Jump",
 image:"./public/images/sports/longjump.webp",
