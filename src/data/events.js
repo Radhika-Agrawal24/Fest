@@ -529,7 +529,7 @@ rules:[
 id:24,
 category:"sports",
 title:"Volleyball",
-image:"./public/images/sports/volleyball.jpg",
+image:"./public/images/sports/volleyball.webp",
 description:"Team volleyball match.",
 rules:[
 "Team of 6 players with substitutes.",
@@ -544,7 +544,7 @@ rules:[
 id:25,
 category:"sports",
 title:"Basketball",
-image:"./public/images/sports/basketball.jpg",
+image:"./public/images/sports/basketball.webp",
 description:"Basketball team tournament.",
 rules:[
 "Team of 5 players with substitutes.",
@@ -559,7 +559,7 @@ rules:[
 id:26,
 category:"sports",
 title:"Tug of War",
-image:"./public/images/sports/tugofwar.jpg",
+image:"./public/images/sports/tugofwar.webp",
 description:"Team strength competition.",
 rules:[
 "Team of 8 players.",
@@ -588,7 +588,7 @@ rules:[
 id:28,
 category:"sports",
 title:"Chess",
-image:"./public/images/sports/chess.jpg",
+image:"./public/images/sports/chess.webp",
 description:"Rapid format chess tournament.",
 rules:[
 "Individual event.",
@@ -602,7 +602,7 @@ rules:[
 id:29,
 category:"sports",
 title:"Carrom",
-image:"./public/images/sports/carrom.jpg",
+image:"./public/images/sports/carrom.webp",
 description:"Carrom board competition.",
 rules:[
 "Played as singles or doubles.",
@@ -616,7 +616,7 @@ rules:[
 id:30,
 category:"sports",
 title:"100m Race",
-image:"./public/images/sports/100m.jpg",
+image:"./public/images/sports/100m.webp",
 description:"Short distance sprint race.",
 rules:[
 "All runners must start behind start line.",
@@ -630,7 +630,7 @@ rules:[
 id:31,
 category:"sports",
 title:"200m Race",
-image:"./public/images/sports/200m.jpg",
+image:"./public/images/sports/100m.webp",
 description:"200 meter running race.",
 rules:[
 "Same rules as 100 meter race.",
@@ -644,7 +644,7 @@ rules:[
 id:32,
 category:"sports",
 title:"Shot Put",
-image:"./public/images/sports/shotput.jpg",
+image:"./public/images/sports/shotput.webp",
 description:"Athletics throwing event.",
 rules:[
 "Throw must be inside throwing circle.",
@@ -658,7 +658,7 @@ rules:[
 id:33,
 category:"sports",
 title:"Javelin Throw",
-image:"./public/images/sports/javelin.jpg",
+image:"./public/images/sports/javelin.webp",
 description:"Athletics javelin throwing event.",
 rules:[
 "Javelin must land within marked sector.",
