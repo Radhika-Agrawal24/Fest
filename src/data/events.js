@@ -481,7 +481,7 @@ const events = [
 id:21,
 category:"sports",
 title:"Gully Cricket",
-image:"./public/images/sports/cricket.jpg",
+image:"./public/images/sports/gullycricket.webp",
 description:"6 player team cricket match with 5 overs.",
 rules:[
 "Team of 6 players.",
@@ -498,7 +498,7 @@ rules:[
 id:22,
 category:"sports",
 title:"Kabaddi",
-image:"./public/images/sports/kabaddi.jpg",
+image:"./public/images/sports/kabaddi.webp",
 description:"Kabaddi team competition.",
 rules:[
 "Team of 7 players with 3 substitutes.",
