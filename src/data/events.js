@@ -478,203 +478,193 @@ const events = [
 /* SPORTS EVENTS */
 
 {
-  id: 21,
-  category: "sports",
-  title: "Gully Cricket",
-  image: "/images/sports/cricket.jpg",
-  description: "6 player team cricket match with 5 overs.",
-  rules: [
-    "Team of 6 players.",
-    "5 overs per match.",
-    "Knock-out format.",
-    "Overarm tennis ball will be used.",
-    "One bowler can bowl maximum 2 overs.",
-    "No LBW rule.",
-    "Toss decides batting or bowling."
-  ],
-  
-    faculty: [
-      { name: "Prof. Ankur Saxena", phone: "7869422278" },
-      { name: "Prof. Ram Sahu", phone: "9893998794" },
-      { name: "Gautam Singh", phone: "9661259888" },
-      { name: "Mr. Kishore Atkar", phone: "9977872409" },
-      { name: "Mr. Suresh Kant Raut", phone: "9926328061" },
-      { name: "Amit Kumar", phone: "9608830619" }
-    ],
-    students: [
-      { name: "Prashant Gupta", phone: "6263069078" },
-      { name: "Sanjay Prajapati", phone: "8357068294" },
-      { name: "Manjit Dhakad", phone: "6232063445" },
-      { name: "Nitesh Ahirwar", phone: "7898570104" },
-      { name: "Ritik Patel", phone: "9303975128" }
-    ]
-  
+id:21,
+category:"sports",
+title:"Gully Cricket",
+image:"./public/images/sports/cricket.jpg",
+description:"6 player team cricket match with 5 overs.",
+rules:[
+"Team of 6 players.",
+"5 overs per match.",
+"Knock-out format.",
+"Overarm tennis ball will be used.",
+"One bowler can bowl maximum 2 overs.",
+"No LBW rule.",
+"Toss decides batting or bowling."
+]
 },
 
 {
-  id: 22,
-  category: "sports",
-  title: "Kabaddi",
-  image: "/images/sports/kabaddi.jpg",
-  description: "Kabaddi team competition.",
-  rules: [
-    "Team of 7 players with 3 substitutes.",
-    "Match consists of two halves of 10 minutes.",
-    "Raider must continuously say 'Kabaddi'.",
-    "If raider is caught, defending team gets 1 point.",
-    "Bonus line rule may apply.",
-    "Maximum 3 timeouts allowed per team."
-  ],
-  
-    faculty: [
-      { name: "Mrityunjay Singh", phone: "8962137723" },
-      { name: "Dr. Gourish Parashar", phone: "9406768960" },
-      { name: "Prof. Varchasva Dubey", phone: "6268801392" }
-    ],
-    students: [
-      { name: "Badal Raj", phone: "9752918277" },
-      { name: "Aditya Parth", phone: "6207169958" },
-      { name: "Vipin Thakur", phone: "9202369855" },
-      { name: "Suryansh", phone: "7415930106" }
-    ]
-  
+id:22,
+category:"sports",
+title:"Kabaddi",
+image:"./public/images/sports/kabaddi.jpg",
+description:"Kabaddi team competition.",
+rules:[
+"Team of 7 players with 3 substitutes.",
+"Match consists of two halves of 10 minutes.",
+"Raider must continuously say 'Kabaddi'.",
+"If raider is caught, defending team gets 1 point.",
+"Bonus line rule may apply.",
+"Maximum 3 timeouts allowed per team."
+]
 },
 
 {
-  id: 23,
-  category: "sports",
-  title: "Badminton",
-  image: "/images/sports/badminton.webp",
-  description: "Singles or doubles badminton competition.",
-  rules: [
-    "Played as singles or doubles.",
-    "Match played up to 11 points.",
-    "Player must win by 2 points difference.",
-    "Shuttle touching boundary line counts IN.",
-    "Service must be below waist."
-  ],
-  
-    faculty: [
-      { name: "Ms. Rinki Shah", phone: "7223926704" },
-      { name: "Mr. Sumit Soni", phone: "7898276714" },
-      { name: "Prof. Piyush Verma", phone: "8109580573" },
-      { name: "Prof. Mahima Patel", phone: "9009755133" }
-    ],
-    students: [
-      { name: "Yash Ghosh", phone: "9074115820" },
-      { name: "Dev Mishra", phone: "7355542942" },
-      { name: "Prabhan", phone: "8982793214" }
-    ]
-  
+id:23,
+category:"sports",
+title:"Badminton",
+image:"./public/images/sports/badminton.webp",
+description:"Singles or doubles badminton competition.",
+rules:[
+"Played as singles or doubles.",
+"Match played up to 11 points.",
+"Player must win by 2 points difference.",
+"Shuttle touching boundary line counts IN.",
+"Service must be below waist."
+]
 },
 
 {
-  id: 24,
-  category: "sports",
-  title: "Volleyball",
-  image: "/images/sports/volleyball.jpg",
-  description: "Team volleyball match.",
-  rules: [
-    "Team of 6 players with substitutes.",
-    "Match played best of 3 sets.",
-    "Each set played up to 25 points.",
-    "Maximum 3 touches per side.",
-    "Players cannot touch the net during play."
-  ],
-  
-    faculty: [
-      { name: "Mr. Asif Yaar", phone: "8120786775" },
-      { name: "Harish Kumar Singh", phone: "7393869100" },
-      { name: "Prof. Neeraj Raghuwanshi", phone: "7024808727" },
-      { name: "Mr. Manoj Deshmukh", phone: "7049010710" }
-    ],
-    students: [
-      { name: "Himanshu Bharaskar", phone: "9770026248" },
-      { name: "Utsav Kumar", phone: "9608362187" },
-      { name: "Chirag", phone: "9754850257" },
-      { name: "Yash Pandey", phone: "7000026580" }
-    ]
-  
+id:24,
+category:"sports",
+title:"Volleyball",
+image:"./public/images/sports/volleyball.jpg",
+description:"Team volleyball match.",
+rules:[
+"Team of 6 players with substitutes.",
+"Match played best of 3 sets.",
+"Each set played up to 25 points.",
+"Maximum 3 touches per side.",
+"Players cannot touch the net during play."
+]
 },
 
 {
-  id: 25,
-  category: "sports",
-  title: "Basketball",
-  image: "/images/sports/basketball.jpg",
-  description: "Basketball team tournament.",
-  rules: [
-    "Team of 5 players with substitutes.",
-    "Match played in 4 quarters.",
-    "Each quarter approximately 8 minutes.",
-    "24 second shot clock if available.",
-    "Team with highest score wins."
-  ],
-  
-    faculty: [
-      { name: "Rinki Shah", phone: "7223926704" },
-      { name: "Mrityunjay Singh", phone: "8962137723" },
-      { name: "Prof. Shashank Shekhar", phone: "8989634207" }
-    ],
-    students: [
-      { name: "Pranjal Tiwari", phone: "9243475531" },
-      { name: "Arjav", phone: "7879737954" }
-    ]
-  
+id:25,
+category:"sports",
+title:"Basketball",
+image:"./public/images/sports/basketball.jpg",
+description:"Basketball team tournament.",
+rules:[
+"Team of 5 players with substitutes.",
+"Match played in 4 quarters.",
+"Each quarter approximately 8 minutes.",
+"24 second shot clock if available.",
+"Team with highest score wins."
+]
 },
 
 {
-  id: 28,
-  category: "sports",
-  title: "Chess",
-  image: "/images/sports/chess.webp",
-  description: "Rapid format chess tournament.",
-  rules: [
-    "Individual event.",
-    "Time limit 10 minutes per player.",
-    "Illegal move results in penalty.",
-    "Checkmate wins the match."
-  ],
-  
-    faculty: [
-      { name: "Mr. Asif Yaar", phone: "8120786775" },
-      { name: "Prof. Shikha Shukla", phone: "9669995655" },
-      { name: "Prof. Yashwant Singh", phone: "8962158066" }
-    ],
-    students: [
-      { name: "Ayan Ahmad Ansari", phone: "6394027710" },
-      { name: "Abhinav Tiwari", phone: "8878098724" },
-      { name: "Vedant Khare", phone: "9131028606" }
-    ]
-  
+id:26,
+category:"sports",
+title:"Tug of War",
+image:"./public/images/sports/tugofwar.jpg",
+description:"Team strength competition.",
+rules:[
+"Team of 8 players.",
+"Best of 3 rounds.",
+"Team pulling opponent beyond center mark wins.",
+"Proper shoes and gloves allowed."
+]
 },
 
 {
-  id: 29,
-  category: "sports",
-  title: "Carrom",
-  image: "/images/sports/carrom.jpg",
-  description: "Carrom board competition.",
-  rules: [
-    "Played as singles or doubles.",
-    "Player must pocket queen and cover it.",
-    "If striker is pocketed one coin returns.",
-    "Player finishing all coins first wins."
-  ],
-  
-    faculty: [
-      { name: "Mr. Asif Yaar", phone: "8120786775" },
-      { name: "Harish Kumar Singh", phone: "7393869100" },
-      { name: "Prof. Mridula", phone: "9669500655" },
-      { name: "Prof. Abhishek", phone: "9926482223" }
-    ],
-    students: [
-      { name: "Dev Niranjan", phone: "6263829891" },
-      { name: "Anurag Thakur", phone: "8643087695" },
-      { name: "Ashish Vishwakarma", phone: "8819050349" },
-      { name: "Sumit", phone: "6265784197" }
-    ]
-  
+id:27,
+category:"sports",
+title:"Kho Kho",
+image:"./public/images/sports/khokho.png",
+description:"Traditional Kho Kho competition.",
+rules:[
+"Team of 9 players playing.",
+"Match consists of two innings of 9 minutes.",
+"Chasers must sit in alternate directions.",
+"Touching runner means OUT.",
+"Team with maximum outs wins."
+]
 },
-]  
+
+{
+id:28,
+category:"sports",
+title:"Chess",
+image:"./public/images/sports/chess.jpg",
+description:"Rapid format chess tournament.",
+rules:[
+"Individual event.",
+"Time limit 10 minutes per player.",
+"Illegal move results in penalty.",
+"Checkmate wins the match."
+]
+},
+
+{
+id:29,
+category:"sports",
+title:"Carrom",
+image:"./public/images/sports/carrom.jpg",
+description:"Carrom board competition.",
+rules:[
+"Played as singles or doubles.",
+"Player must pocket queen and cover it.",
+"If striker is pocketed one coin returns.",
+"Player finishing all coins first wins."
+]
+},
+
+{
+id:30,
+category:"sports",
+title:"100m Race",
+image:"./public/images/sports/100m.jpg",
+description:"Short distance sprint race.",
+rules:[
+"All runners must start behind start line.",
+"False start results in warning.",
+"Second false start leads to disqualification.",
+"First runner crossing finish line wins."
+]
+},
+
+{
+id:31,
+category:"sports",
+title:"200m Race",
+image:"./public/images/sports/200m.jpg",
+description:"200 meter running race.",
+rules:[
+"Same rules as 100 meter race.",
+"All runners start behind start line.",
+"False start warning allowed once.",
+"Second false start leads to disqualification."
+]
+},
+
+{
+id:32,
+category:"sports",
+title:"Shot Put",
+image:"./public/images/sports/shotput.jpg",
+description:"Athletics throwing event.",
+rules:[
+"Throw must be inside throwing circle.",
+"Distance measured from landing mark.",
+"Player cannot cross throw line.",
+"Best throw out of 3 attempts counts."
+]
+},
+
+{
+id:33,
+category:"sports",
+title:"Javelin Throw",
+image:"./public/images/sports/javelin.jpg",
+description:"Athletics javelin throwing event.",
+rules:[
+"Javelin must land within marked sector.",
+"Player cannot cross throw line.",
+"3 attempts allowed per participant.",
+"Longest valid throw wins."
+]
+}]
 export default events
