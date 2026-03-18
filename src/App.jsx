@@ -36,7 +36,7 @@ function App() {
   id="home"
   className="h-screen flex items-center justify-center text-center text-white"
   style={{
-    backgroundImage: "url('./public/images/home.png')",
+    backgroundImage: "url('./public/images/home.webp')",
     backgroundSize: "cover",
     backgroundPosition: "center"
   }}
