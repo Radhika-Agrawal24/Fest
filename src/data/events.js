@@ -181,7 +181,7 @@ description:"Short theatre performance.",
 id:21,
 category:"sports",
 title:"Gully Cricket",
-image:"./public/images/sports/gullycricket.jpg",
+image:"./public/images/sports/gullycricket.webp",
 description:"6 player team cricket match with 5 overs.",
 rules:[
 "Team of 6 players.",
